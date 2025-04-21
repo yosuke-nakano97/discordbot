@@ -1,0 +1,9 @@
+discord
+asyncio
+ffmpeg-python
+PyNaCl
+python-dotenv
+SQLAlchemy
+google-api-python-client
+requests
+pytz
